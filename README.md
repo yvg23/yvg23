@@ -1,4 +1,4 @@
-<h1 align="center" >Hi , I'm Pradeep Singh      
+<h1 align="center" >Hi , I'm Yashvardhan Goyal    
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>      
 <p align="center">   
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a> 
@@ -8,7 +8,7 @@
 <br>   
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=pydeep9026&label=Profile%20views&color=0047AB&style=plastic?" alt="pradeep" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=pydeep9026&label=Profile%20views&color=0047AB&style=plastic?" alt="yashvardhan" height=25px, width=160px/> 
 </p>
 
 	
@@ -20,21 +20,21 @@
 
 -I am currently studying computer science engineering
 at srm institute of science and technology,ktr chennai.
-I have completed my Higher Secondary from lucknow
-public college,lucknow and Secondary School from
-st, xavier's high school,hardoi . I am a crypto analyst
+I have completed my Higher Secondary from Jayshree periwal High school and Secondary School from
+Jayshree Periwal High School . I am a Stock market analyst
 and investor with 2 years of experience and i have a
-youtube channel with 5k+ subscribers and i am currently
+twitter account with 2k+ subscribers and i am currently
 learning programming and full stack web development..
 
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/pydeep9026/pydeep9026/files/14200058/resumenew4.pdf)
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/yvg23/yvg23/files/14340292/Yashvardhan-Goyal-FlowCV-Resume-20240201.1.pdf)
 
 
 
 
 
 
-- :boom: You can visit [my website](https://pradeeps.me).
+
+
 <br>
 
 
@@ -44,9 +44,9 @@ learning programming and full stack web development..
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:pradeepsi2120032@gamil.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/pydeep9026"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/pradeep-singh-b57881207/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:yashgoyal23@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/yvg23"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/yashvvg23/?originalSubdomain=in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
@@ -163,8 +163,8 @@ learning programming and full stack web development..
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="pradeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pydeep9026&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="pradeep" height="230px"/>
+	    <img alt="Yashvardhan's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pydeep9026&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Yashvardhan" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
