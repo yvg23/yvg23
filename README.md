@@ -26,7 +26,7 @@ and investor with 2 years of experience and i have a
 twitter account with 2k+ subscribers and i am currently
 learning programming and full stack web development..
 
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/yvg23/file:///Users/MANOJGOYAL/Downloads/Resume%20Yashvardhan_Goyal%20(3).pdf)
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](file:///Users/MANOJGOYAL/Downloads/Resume%20Yashvardhan_Goyal%20(3).pdf)
 
 
 
